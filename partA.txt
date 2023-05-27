@@ -1,0 +1,5 @@
+PS C:\Users\VISHAL\Desktop\sem-VI\Lab\WAD\Practical_2A> git add .
+PS C:\Users\VISHAL\Desktop\sem-VI\Lab\WAD\Practical_2A> git status
+On branch master
+nothing to commit, working tree clean
+PS C:\Users\VISHAL\Desktop\sem-VI\Lab\WAD\Practical_2A>
